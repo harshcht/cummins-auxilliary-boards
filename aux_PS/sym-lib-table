@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "PSK-S6C-24")(type "KiCad")(uri "${KIPRJMOD}/libraries/PSK-S6C-24.kicad_sym")(options "")(descr ""))
+  (lib (name "DCWN-06B")(type "KiCad")(uri "${KIPRJMOD}/libraries/DCWN-06B.kicad_sym")(options "")(descr ""))
+  (lib (name "PXO1812")(type "KiCad")(uri "${KIPRJMOD}/libraries/PXO1812.kicad_sym")(options "")(descr ""))
+  (lib (name "PS7803")(type "KiCad")(uri "${KIPRJMOD}/libraries/PS7803.kicad_sym")(options "")(descr ""))
+  (lib (name "MGJ_murata")(type "KiCad")(uri "${KIPRJMOD}/libraries/MGJ_murata.kicad_sym")(options "")(descr ""))
+  (lib (name "electro_cap")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/electro_cap.kicad_sym")(options "")(descr ""))
+)

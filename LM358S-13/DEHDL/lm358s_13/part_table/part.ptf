@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM358S_13'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "LM358S-13" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "621-LM358S-13", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/LM358S-13?qs=FRHfhEBFk1cUgiwjEgUNzQ%3D%3D", "Op Amp Dual 100dB 3-32V 1MHz SOIC8 DiodesZetex LM358S-13, Dual Op Amp, 1MHz Push-Pull, 3  32 V, 8-Pin SOP", "https://componentsearchengine.com/Datasheets/2/LM358S-13.pdf", "1.75 mm"
+END_PART
+
+END.

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "LM324")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/LM324.kicad_sym")(options "")(descr ""))
+  (lib (name "am264xlaunchpad")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/am264xlaunchpad.kicad_sym")(options "")(descr ""))
+  (lib (name "74125")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/74125.kicad_sym")(options "")(descr ""))
+  (lib (name "f280025C")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/f280025C.kicad_sym")(options "")(descr ""))
+)

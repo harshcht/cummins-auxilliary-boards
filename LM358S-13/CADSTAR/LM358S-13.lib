@@ -1,0 +1,16 @@
+.LM358S-13 :1 ;Op Amp Dual 100dB 3-32V 1MHz SOIC8 DiodesZetex LM358S-13, Dual Op Amp, 1MHz Push-Pull, 3  32 V, 8-Pin SOP
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="OUT1" 2="IN1-" 3="IN1+" 4="GND/V-" 5="IN2+" 6="IN2-" 7="OUT2" 8="V+"
+*MXP 8
+*DFN LM358S-13
+~!Mouser Part Number (621-LM358S-13)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/LM358S-13?qs=FRHfhEBFk1cUgiwjEgUNzQ%3D%3D)
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (LM358S-13)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/LM358S-13.pdf)
+~!Height (1.75mm)
+~!3D_Model (LM358S-13)
+LM358S-13
+1.1!Y 2.1!I 3.1!I 4.1!G 8.1!P 7.1!Y 6.1!I 5.1!I 

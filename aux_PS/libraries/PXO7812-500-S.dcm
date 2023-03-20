@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PXO7812-500-S
+D Non-Isolated DC/DC Converters dc-dc non-isolated, 0.5 A, 15-36 Vdc input, 12 Vdc output, SIP
+K
+F https://www.cui.com/product/resource/pxo78-500-s.pdf
+$ENDCMP
+#
+#End Doc Library

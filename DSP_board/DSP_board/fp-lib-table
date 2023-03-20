@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "KiCad")(type "KiCad")(uri "D:/cummins/Auxillary supply/LM358S-13/KiCad.pretty")(options "")(descr ""))
+  (lib (name "LM324")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/LM324.pretty")(options "")(descr ""))
+  (lib (name "am263x_devboard")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/am263x_devboard.pretty")(options "")(descr ""))
+  (lib (name "74125")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/74125.pretty")(options "")(descr ""))
+  (lib (name "f280025c")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/f280025c.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F280025CPNQR
+D 32-bit Microcontrollers - MCU Automotive C2000 32-bit MCU with 100 MHz, FPU, TMU, 128-KB flash, CLB 80-LQFP -40 to 125
+K
+F https://www.ti.com/lit/gpn/tms320f280025c-q1
+$ENDCMP
+#
+#End Doc Library
