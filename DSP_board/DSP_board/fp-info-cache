@@ -1,4 +1,4 @@
-20396662595413398
+20398348918844719
 74125
 SOP65P640X120-14N
 TSSOP14 CASE 948G
@@ -20,6 +20,13 @@ audio belton reverb
 0
 7
 7
+BKP100
+BEADC1005X55N
+BK series P type-2
+Ferrite Bead
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -33282,8 +33289,8 @@ Arty-S7
 
 
 0
-107
-59
+106
+106
 Connector_PinHeader_2.54mm
 LAUNCHXL-F280049C
 

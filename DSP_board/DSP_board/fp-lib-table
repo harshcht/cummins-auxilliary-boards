@@ -4,4 +4,5 @@
   (lib (name "am263x_devboard")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/am263x_devboard.pretty")(options "")(descr ""))
   (lib (name "74125")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/74125.pretty")(options "")(descr ""))
   (lib (name "f280025c")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/f280025c.pretty")(options "")(descr ""))
+  (lib (name "BKP100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/BKP100.pretty")(options "")(descr ""))
 )
