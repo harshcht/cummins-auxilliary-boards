@@ -6,4 +6,5 @@
   (lib (name "BK100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/BK100.kicad_sym")(options "")(descr ""))
   (lib (name "MPZ1005S600CT000")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/MPZ1005S600CT000.kicad_sym")(options "")(descr ""))
   (lib (name "MPZ100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/MPZ100.kicad_sym")(options "")(descr ""))
+  (lib (name "ribbon_connector")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/ribbon_connector.kicad_sym")(options "")(descr ""))
 )

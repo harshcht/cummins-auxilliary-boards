@@ -587,6 +587,9 @@
   (junction (at 27.94 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 7da282b7-b056-43ae-8b92-795c6ce24144)
   )
+  (junction (at 72.39 69.85) (diameter 0) (color 0 0 0 0)
+    (uuid 8525e448-b057-4c7a-93b9-3d2b9e4004cd)
+  )
   (junction (at 34.29 138.43) (diameter 0) (color 0 0 0 0)
     (uuid 862600f4-6129-4906-8a2f-09c46b423b66)
   )
@@ -1026,6 +1029,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 52864d28-3d9a-4a90-a2c1-55d074d86d9d)
   )
+  (wire (pts (xy 31.75 67.31) (xy 35.56 67.31))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 537a5e31-8d8c-4f41-ba5a-ea6bdc02194b)
+  )
   (wire (pts (xy 248.92 105.41) (xy 252.73 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 5410b871-4b70-42b4-bebf-da8522734e9e)
@@ -1053,6 +1060,10 @@
   (wire (pts (xy 34.29 138.43) (xy 34.29 140.97))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 5bd9be95-a060-4b12-af32-ac20bbd2a540)
+  )
+  (wire (pts (xy 73.66 62.23) (xy 73.66 69.85))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 5cb7d6c4-10e2-4381-9c2f-6a9c25c1bbf8)
   )
   (wire (pts (xy 160.02 87.63) (xy 161.29 87.63))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1590,6 +1601,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid daee1ce5-f444-4201-b451-b4b317ec5c39)
   )
+  (wire (pts (xy 73.66 69.85) (xy 72.39 69.85))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid db0d1e2d-b684-492d-8d9b-6d5f807a536b)
+  )
   (wire (pts (xy 248.92 105.41) (xy 248.92 107.95))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid dc77d23f-2054-47ad-b237-11e81be2baa7)
@@ -1981,6 +1996,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "offset_v" (shape input) (at 73.66 62.23 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5da3ccdb-73dd-472c-8a0c-989ac7d5b286)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 73.5806 52.4388 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "batt_curr_sense" (shape input) (at 101.6 144.78 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6038a213-d36f-4b7b-80ec-b8b88ef1bafe)
@@ -2056,6 +2078,13 @@
     (uuid 80646095-eb61-4df2-9c8f-dce9df42f189)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 250.1106 21.4145 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "offset_i" (shape input) (at 31.75 67.31 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 881c5421-6771-475b-a7c3-71968a4d7ea6)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 22.3217 67.2306 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "DAB1PWM11" (shape output) (at 232.41 80.01 180) (fields_autoplaced)
@@ -3569,6 +3598,9 @@
     (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/057b5f56-2461-447f-b2a7-0fc6f40d525f"
       (reference "C18") (unit 1) (value "2.2u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/9c5dc17f-dc69-4afc-8d49-ea02322f9d84"
+      (reference "C19") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/e1c0c571-e1f3-4a66-88d8-43be5b9ae1e3"
       (reference "Cvdd_1") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -3628,6 +3660,24 @@
     )
     (path "/19e382cd-4326-42bf-8992-53e5e531af5d"
       (reference "IC_offsetgen2") (unit 1) (value "LM358S-13") (footprint "SOIC127P600X175-8N")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/692ebd42-656b-4507-a377-3238f0fabcc6"
+      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/f918afd8-a761-444d-897a-d8a308105643"
+      (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/b83b5440-9edc-4017-a2d7-643658506b2b"
+      (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/12f56378-aad0-430d-8c18-21a9ea2b2532"
+      (reference "J4") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/1997d111-ebb0-4d66-b3d2-49f6e1d87919"
+      (reference "J5") (unit 1) (value "1-84981-0") (footprint "jtag_connector:1849810")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/9f0b94fc-42fa-421b-82bc-dd82d8110387"
+      (reference "J6") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/490c5d74-c269-42d2-9040-da4358a54472"
       (reference "JDAB_batt1") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
@@ -3748,6 +3798,21 @@
     )
     (path "/7a283eac-510b-4d57-a106-9c42e193d5c6"
       (reference "R36") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/80c9d4b5-88af-42a5-8108-1e39865f9764"
+      (reference "R37") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/7988b86c-2205-4823-8413-bfb1980a92ea"
+      (reference "R38") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/45d3761a-3cb6-4116-bda8-6f42efe8059d"
+      (reference "R39") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/0984a727-41e6-41c4-a044-96da13a1e2c0"
+      (reference "R40") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+    )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/24db0d00-bfd6-4645-8245-cc4b7c15fd71"
+      (reference "R41") (unit 1) (value "R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
   )
 )
