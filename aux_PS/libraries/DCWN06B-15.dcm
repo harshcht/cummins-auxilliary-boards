@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DCWN06B-15
+D Isolated DC/DC Converters 6W 18-36Vin +/-15V +/-0-200mA DIP24 Iso
+K
+F https://www.arrow.com/en/products/dcwn06b-15/mean-well-enterprises
+$ENDCMP
+#
+#End Doc Library

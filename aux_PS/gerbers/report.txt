@@ -1,0 +1,22 @@
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-F_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-B_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-F_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-B_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-F_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-B_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-F_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-B_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\aux_PS-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\cummins\Auxillary supply\aux_PS\aux_PS-job.gbrjob'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-F_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-B_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-F_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-B_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-F_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-B_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-F_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-B_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\cummins\Auxillary supply\aux_PS\gerbers\aux_PS-job.gbrjob'.
+Info: Done.
+Info: Done.
