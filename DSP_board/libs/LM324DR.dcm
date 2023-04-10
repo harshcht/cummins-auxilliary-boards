@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM324DR
+D QUADRUPLE OPERATIONAL AMPLIFIERS
+K
+F http://componentsearchengine.com/Datasheets/3/LM324DR.pdf
+$ENDCMP
+#
+#End Doc Library
