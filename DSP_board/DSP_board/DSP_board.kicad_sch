@@ -3518,6 +3518,9 @@
     (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/07ed83f3-cd6c-44ab-bfdb-a1853ce179bf"
       (reference "FB2") (unit 1) (value "MPZ1005S600CT000") (footprint "BKP100:BEADC1005X55N")
     )
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/f4cb2d02-0598-4950-9c3c-6ee90b76f5a4"
+      (reference "IC1") (unit 1) (value "SN74S1053NSR") (footprint "sn74s:sn74")
+    )
     (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/248a982d-bc2e-4e33-98bc-298578cdba7e"
       (reference "IC5") (unit 1) (value "F280025CPNQR") (footprint "f280025c:f280025c")
     )

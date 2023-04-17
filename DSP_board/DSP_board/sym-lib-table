@@ -8,4 +8,5 @@
   (lib (name "MPZ100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/MPZ100.kicad_sym")(options "")(descr ""))
   (lib (name "ribbon_connector")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/ribbon_connector.kicad_sym")(options "")(descr ""))
   (lib (name "quad_opamp")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/quad_opamp.kicad_sym")(options "")(descr ""))
+  (lib (name "diode_adc")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/diode_adc.kicad_sym")(options "")(descr ""))
 )

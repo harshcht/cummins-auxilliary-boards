@@ -7,4 +7,5 @@
   (lib (name "BKP100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/BKP100.pretty")(options "")(descr ""))
   (lib (name "jtag_connector")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/jtag_connector.pretty")(options "")(descr ""))
   (lib (name "lm324")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/lm324.pretty")(options "")(descr ""))
+  (lib (name "sn74s")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/sn74s.pretty")(options "")(descr ""))
 )
