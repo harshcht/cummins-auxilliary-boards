@@ -3563,6 +3563,9 @@
   )
 
   (symbol_instances
+    (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/efcb8005-c094-410b-9e1b-345397e5dfcb"
+      (reference "?") (unit 1) (value "SN74S1053NSR") (footprint "")
+    )
     (path "/65abaeeb-f079-4d1a-9aaf-277d58cadcf0/73e14c9b-8136-44c8-8a6d-153a1defc885"
       (reference "B1") (unit 1) (value "Arty-S7") (footprint "Connector_PinHeader_2.54mm:Arty-S7")
     )
