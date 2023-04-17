@@ -6,4 +6,5 @@
   (lib (name "f280025c")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/f280025c.pretty")(options "")(descr ""))
   (lib (name "BKP100")(type "KiCad")(uri "D:/cummins/Auxillary supply/aux_PS/libraries/BKP100.pretty")(options "")(descr ""))
   (lib (name "jtag_connector")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/jtag_connector.pretty")(options "")(descr ""))
+  (lib (name "diodes")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/diodes.pretty")(options "")(descr ""))
 )
