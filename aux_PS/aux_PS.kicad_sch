@@ -1142,7 +1142,7 @@
     (uuid 924609b2-ed56-4d39-928a-34e8ebf74acc)
     (property "Reference" "AC_DC2" (id 0) (at 65.405 55.88 0))
     (property "Value" "PSK-S6C-24" (id 1) (at 65.405 58.42 0))
-    (property "Footprint" "PSK-S6C-24:PSK-S6C-24" (id 2) (at 68.58 71.12 0)
+    (property "Footprint" "PSK-S6C-24:PSKS6C24" (id 2) (at 68.58 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 68.58 71.12 0)
@@ -1216,7 +1216,7 @@
     (uuid ab1d88f5-8232-454e-a102-ba9788c47905)
     (property "Reference" "AC_DC1" (id 0) (at 65.405 38.1 0))
     (property "Value" "PSK-S6C-24" (id 1) (at 65.405 40.64 0))
-    (property "Footprint" "PSK-S6C-24:PSK-S6C-24" (id 2) (at 68.58 53.34 0)
+    (property "Footprint" "PSK-S6C-24:PSKS6C24" (id 2) (at 68.58 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 68.58 53.34 0)
@@ -1341,10 +1341,10 @@
 
   (symbol_instances
     (path "/ab1d88f5-8232-454e-a102-ba9788c47905"
-      (reference "AC_DC1") (unit 1) (value "PSK-S6C-24") (footprint "PSK-S6C-24:PSK-S6C-24")
+      (reference "AC_DC1") (unit 1) (value "PSK-S6C-24") (footprint "PSK-S6C-24:PSKS6C24")
     )
     (path "/924609b2-ed56-4d39-928a-34e8ebf74acc"
-      (reference "AC_DC2") (unit 1) (value "PSK-S6C-24") (footprint "PSK-S6C-24:PSK-S6C-24")
+      (reference "AC_DC2") (unit 1) (value "PSK-S6C-24") (footprint "PSK-S6C-24:PSKS6C24")
     )
     (path "/c187c878-09da-4d9b-898f-142200e6ed75"
       (reference "C1") (unit 1) (value "EEH-ZA1H100R") (footprint "EEHZA1H100R")

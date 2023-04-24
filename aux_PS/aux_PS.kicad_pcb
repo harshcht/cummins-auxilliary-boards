@@ -141,7 +141,7 @@
       (net 6 "Net-(AC_DC2-Pad4)") (pintype "passive") (tstamp 1eb087cf-beeb-4d40-b86e-52fdfdcd7890))
     (pad "2" smd rect (at 2.15 0 180) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 8 "24_gnd") (pintype "passive") (tstamp 0f861de0-c60a-4c23-8d81-9962769d94ef))
-    (model "EEH-ZA1H100R.stp"
+    (model "${PROJECT_PATHS}/EEH-ZA1H100R.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -180))
@@ -238,7 +238,7 @@
       (net 3 "Net-(AC_DC1-Pad4)") (pintype "passive") (tstamp 107129ee-4640-4f5f-b23e-0b6b037e7c0d))
     (pad "2" smd rect (at 2.15 0 180) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 8 "24_gnd") (pintype "passive") (tstamp c6de4c3d-b2bc-4bd6-9f4a-073703196861))
-    (model "EEH-ZA1H100R.stp"
+    (model "${PROJECT_PATHS}/EEH-ZA1H100R.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -180))
@@ -273,6 +273,11 @@
       (net 8 "24_gnd") (pinfunction "-Vo") (pintype "output") (tstamp b532b227-cdd1-4e04-9604-2eee34318e48))
     (pad "4" thru_hole circle (at 45.72 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
       (net 3 "Net-(AC_DC1-Pad4)") (pinfunction "+Vo") (pintype "output") (tstamp 5995c907-2b5a-4377-9495-1861d9e35767))
+    (model "${PROJECT_PATHS}/PSK-S6C-24.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
   )
 
   (footprint "PXO:PXO7812500S" (layer "F.Cu")
@@ -324,7 +329,7 @@
       (net 8 "24_gnd") (pinfunction "GND") (pintype "passive") (tstamp c32d0a87-f813-4b42-a64e-1bf4bb357adf))
     (pad "3" thru_hole circle (at 5.08 0 90) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask)
       (net 9 "V12") (pinfunction "VOUT") (pintype "passive") (tstamp 52af8a30-a712-43da-a64e-65137c328dd1))
-    (model "PXO7812-500-S.stp"
+    (model "${PROJECT_PATHS}/PXO7812-500-S.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -359,6 +364,11 @@
       (net 8 "24_gnd") (pinfunction "-Vo") (pintype "output") (tstamp 85418a87-d018-4de7-8bd9-d411c726dd58))
     (pad "4" thru_hole circle (at 45.72 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
       (net 6 "Net-(AC_DC2-Pad4)") (pinfunction "+Vo") (pintype "output") (tstamp 0989dcbe-018a-436c-973b-4da8b9a93cb4))
+    (model "${PROJECT_PATHS}/PSK-S6C-24.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (layer "F.Cu")
@@ -452,7 +462,7 @@
       (net 10 "ctrl_gnd") (pinfunction "GND") (pintype "passive") (tstamp faa34b4d-7b14-4d76-85a0-e2e812a84c2c))
     (pad "3" thru_hole circle (at 5.08 0 180) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask)
       (net 13 "ctrl_3v3") (pinfunction "+VOUT") (pintype "passive") (tstamp d2e5f9d1-c753-40d5-af8b-967d2321783b))
-    (model "P78E03-1000.stp"
+    (model "${PROJECT_PATHS}/P78E03-1000.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -495,6 +505,11 @@
       (net 7 "/V_24") (pinfunction "Vin") (pintype "input") (tstamp e85c26da-09bc-4274-aecd-ee6970bfde66))
     (pad "23" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
       (net 7 "/V_24") (pinfunction "Vin") (pintype "input") (tstamp 60b69c8b-a894-4647-86ef-db44f29d95b0))
+    (model "${PROJECT_PATHS}/DCWN06B-15.stp"
+      (offset (xyz -7.5 -9 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" (layer "F.Cu")
@@ -768,7 +783,7 @@
     )
   )
 
-  (gr_rect (start 58.17 42.98) (end 168.89 112.34) (layer "F.Fab") (width 0.1) (fill none) (tstamp a63083a8-0844-444e-985b-ee888bcb66c4))
+  (gr_rect (start 66.99 43.56) (end 159.15 112.51) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp b97f2f41-2599-47ea-8a07-6ef107f2227e))
 
   (segment (start 116.80114 71.30114) (end 116.80114 65.75886) (width 0.25) (layer "F.Cu") (net 3) (tstamp 045b5ab1-775a-45ff-b1bd-92d7ea8d6770))
   (segment (start 118.29 64.27) (end 118.34 64.27) (width 0.25) (layer "F.Cu") (net 3) (tstamp 0fd71ea7-e050-4d62-8944-762f5ea2b9cb))

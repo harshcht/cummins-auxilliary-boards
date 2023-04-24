@@ -1,4 +1,4 @@
-20535954148187196
+20539324750981557
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -33275,8 +33275,8 @@ Arty-S7
 
 
 0
-107
-59
+106
+106
 Connector_PinHeader_2.54mm
 LAUNCHXL-F280049C
 
@@ -50252,6 +50252,13 @@ DCWN-06B
 0
 8
 8
+DCWN-06B
+DCWN06B15
+DCWN06B-15-2
+Power Supply
+0
+8
+8
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -61323,6 +61330,13 @@ PSK-S6C-24
 PSK-S6C-24
 
 
+0
+4
+4
+PSK-S6C-24
+PSKS6C24
+PSK-S6C-24-1
+Power Supply
 0
 4
 4
