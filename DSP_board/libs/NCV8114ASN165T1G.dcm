@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCV8114ASN165T1G
+D ONSEMI - NCV8114ASN165T1G - LDO REGULATOR, 300 MA, LOW IQ 1.65V AD
+K
+F https://www.onsemi.com/pub/Collateral/NCV8114-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -8,4 +8,5 @@
   (lib (name "jtag_connector")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/jtag_connector.pretty")(options "")(descr ""))
   (lib (name "lm324")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/lm324.pretty")(options "")(descr ""))
   (lib (name "sn74s")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/sn74s.pretty")(options "")(descr ""))
+  (lib (name "ldo_ncv118")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/ldo_ncv118.pretty")(options "")(descr ""))
 )

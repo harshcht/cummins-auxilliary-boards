@@ -1,0 +1,13 @@
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-F_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-In1_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-In2_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-B_Cu.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-F_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-B_Paste.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-F_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-B_Silkscreen.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-F_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-B_Mask.gbr'.
+Plotted to 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\cummins\Auxillary supply\DSP_board\DSP_board\gerbers\DSP_board-job.gbrjob'.
+Info: Done.
