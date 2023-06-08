@@ -10,4 +10,5 @@
   (lib (name "quad_opamp")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/quad_opamp.kicad_sym")(options "")(descr ""))
   (lib (name "diode_adc")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/diode_adc.kicad_sym")(options "")(descr ""))
   (lib (name "NCV8114ASN165T1G")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/NCV8114ASN165T1G.kicad_sym")(options "")(descr ""))
+  (lib (name "electrolytic_cap")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/electrolytic_cap.kicad_sym")(options "")(descr ""))
 )

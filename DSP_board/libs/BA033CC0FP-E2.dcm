@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA033CC0FP-E2
+D LDO regulator,3.3V,1A,TO252
+K
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/baxxdd0-e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,45 @@
+PCBNEW-LibModule-V1  2023-06-02 09:51:51
+# encoding utf-8
+Units mm
+$INDEX
+1800408
+$EndINDEX
+$MODULE 1800408
+Po 0 0 0 15 6479ada7 00000000 ~~
+Li 1800408
+Cd 1800408-4
+Kw Connector
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 2.500 -0 1.27 1.27 0 0.254 N V 21 N "J**"
+T1 2.500 -0 1.27 1.27 0 0.254 N I 21 N "1800408"
+DS -3 6 8 6 0.1 24
+DS 8 6 8 -6 0.1 24
+DS 8 -6 -3 -6 0.1 24
+DS -3 -6 -3 6 0.1 24
+DS 8 6 -3 6 0.2 21
+DS -3 6 -3 -6 0.2 21
+DS -3 -6 8 -6 0.2 21
+DS 8 -6 8 6 0.2 21
+DS -4 -7 9 -7 0.1 24
+DS 9 -7 9 7 0.1 24
+DS 9 7 -4 7 0.1 24
+DS -4 7 -4 -7 0.1 24
+$PAD
+Po 0.000 -0
+Sh "1" R 1.950 1.950 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5.000 -0
+Sh "2" C 1.950 1.950 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE 1800408
+$EndLIBRARY

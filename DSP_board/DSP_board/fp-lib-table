@@ -9,4 +9,6 @@
   (lib (name "lm324")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/lm324.pretty")(options "")(descr ""))
   (lib (name "sn74s")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/sn74s.pretty")(options "")(descr ""))
   (lib (name "ldo_ncv118")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/ldo_ncv118.pretty")(options "")(descr ""))
+  (lib (name "3v3_ldo")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/3v3_ldo.pretty")(options "")(descr ""))
+  (lib (name "electrolytic_cap")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/electrolytic_cap.pretty")(options "")(descr ""))
 )

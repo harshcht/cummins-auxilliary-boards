@@ -5,4 +5,6 @@
   (lib (name "PS7803")(type "KiCad")(uri "${KIPRJMOD}/libraries/PS7803.kicad_sym")(options "")(descr ""))
   (lib (name "MGJ_murata")(type "KiCad")(uri "${KIPRJMOD}/libraries/MGJ_murata.kicad_sym")(options "")(descr ""))
   (lib (name "electro_cap")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/electro_cap.kicad_sym")(options "")(descr ""))
+  (lib (name "connector_power")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/connector_power.kicad_sym")(options "")(descr ""))
+  (lib (name "3v3_ldo")(type "KiCad")(uri "D:/cummins/Auxillary supply/DSP_board/libs/3v3_ldo.kicad_sym")(options "")(descr ""))
 )

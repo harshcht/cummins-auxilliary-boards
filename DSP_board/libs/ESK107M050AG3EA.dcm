@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESK107M050AG3EA
+D ESK, Aluminum, Aluminum Electrolytic, 100 uF, 20%, 50 VDC, -40/+85C, 85C, -40C, 85C, 2,000 Hrs, 10 % , 0.23, 50 uA, 3, 3, 8mm, 11mm, Lead Spacing = 3.5mm, 20mm, 1000
+K
+F https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf
+$ENDCMP
+#
+#End Doc Library
